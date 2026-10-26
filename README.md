@@ -1,6 +1,6 @@
 # Retail Sales Performance Analysis
 
-An Excel analysis of retail and warehouse sales for a wine, beer and liquor distributor, covering data cleaning, pivot tables and an dashboard.
+An Excel analysis of retail and warehouse sales for a wine, beer and liquor distributor, covering data cleaning, pivot tables and a dashboard.
 
 ![Dashboard](dashboard.png)
 
